@@ -1,0 +1,34 @@
+_repo: The-Book-of-Tea_769
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Okakura, Kakuzo
+    alias: 岡倉天心
+    birthdate: 1862
+    deathdate: 1913
+    gutenberg_agent_id: '406'
+    url: http://www.gutenberg.org/2009/agents/406
+    wikipedia: http://en.wikipedia.org/wiki/Okakura_Kakuzo
+description: "The Book of Tea (茶の本, Cha no Hon) by Okakura Kakuzō (1906) is a long\
+  \ essay linking the role of tea (teaism) to the aesthetic and cultural aspects of\
+  \ Japanese life.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '769'
+  wikidata: Q7719311
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japanese tea ceremony'
+- !lcc 'GT'
+- !lcsh 'Japan -- Social life and customs'
+- !lcsh 'Tea'
+- GITenberg
+title: The Book of Tea
+url: http://www.gutenberg.org/ebooks/769
+wikipedia:
+- https://simple.wikipedia.org/wiki/The_Book_of_Tea
+- https://en.wikipedia.org/wiki/The_Book_of_Tea
