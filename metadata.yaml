@@ -1,5 +1,8 @@
 _repo: The-Book-of-Tea_769
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Okakura, Kakuzo
@@ -12,6 +15,8 @@ creator:
 description: "The Book of Tea (茶の本, Cha no Hon) by Okakura Kakuzō (1906) is a long\
   \ essay linking the role of tea (teaism) to the aesthetic and cultural aspects of\
   \ Japanese life.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/769#The-Book-of-Tea
 gutenberg_issued: '1997-01-01'
 gutenberg_type: Text
 identifiers:
